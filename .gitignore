@@ -1,0 +1,12 @@
+!config-sample/raspberrypi0/bblayers.conf.sample
+!config-sample/raspberrypi0/conf-notes.txt
+!config-sample/raspberrypi0/local.conf.sample
+!config-sample/raspberrypi3/bblayers.conf.sample
+!config-sample/raspberrypi3/conf-notes.txt
+!config-sample/raspberrypi3/local.conf.sample
+!build/raspberrypi0/conf/templateconf.cfg
+!build/raspberrypi3/conf/templateconf.cfg
+build*
+poky*
+meta*
+.repo*
